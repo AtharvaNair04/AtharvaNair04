@@ -5,7 +5,7 @@
 
 <p align="center">
   <a href="https://github.com/AtharvaNair04">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1200&color=7AA2F7&center=true&vCenter=true&width=620&lines=Final-year+CS+student;Building+full-stack+apps+with+TypeScript+%26+Flutter;Teaching+Transformers+how+Java+programs+run;Open-source+contributor+%40+amFOSS" alt="Typing intro" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1200&color=7AA2F7&center=true&vCenter=true&width=620&lines=Final-year+CS+student;Building+full-stack+apps+with+TypeScript+%26+Flutter;Open-source+contributor+%40+amFOSS" alt="Typing intro" />
   </a>
 </p>
 
@@ -19,7 +19,6 @@
 ## 👨‍💻 About me
 
 - 🎓 Final-year Computer Science student
-- 🔭 Working on an **Execution Semantic Transformer**, an encoder–decoder model (PyTorch) that reads Java source and predicts its runtime execution traces
 - 👁️ Revisiting **classical human pose estimation**: Flexible Mixtures-of-Parts with adaptive features and pose refinement
 - 🌱 Contributor at **amFOSS**, with 97 commits to [amMentor-Web](https://github.com/amfoss/ammentor-web)
 - 🏆 Runner-up consolation prize at the Olabs Hackathon with [COlaba](https://github.com/KKSurendran06/COlaba)
@@ -36,7 +35,6 @@
 
 | Project | What it is | Stack |
 |---|---|---|
-| [**Final-Yr-Phase2**](https://github.com/AtharvaNair04/Final-Yr-Phase2) | Execution Semantic Transformer: source-to-execution-trace dataset pipeline and model | Python · PyTorch · Java |
 | [**CampusLink**](https://github.com/AtharvaNair04/CampusLink) | College communication and classroom management platform: web admin portal plus a cross-platform mobile app | Flutter · Next.js · Express · Supabase |
 | [**SecureDrop**](https://github.com/AtharvaNair04/SecureDrop) | Anonymous whistleblower portal with JWT auth, permission guards and file-signature checks *(no longer maintained)* | NestJS · Prisma · React · Docker |
 | [**Computer-Vision**](https://github.com/AtharvaNair04/Computer-Vision) | Enhanced articulated human pose estimation | MATLAB · C++ |
