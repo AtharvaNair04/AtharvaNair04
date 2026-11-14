@@ -1,82 +1,140 @@
-<!-- Visuals in assets/ are generated: edit scripts/build_assets.py and run it. -->
-
-<img src="assets/hero.svg" width="100%" alt="Terminal: whoami prints Atharva Nair, frontend engineer. cat focus.txt prints React, TypeScript, Next.js and AI-powered interfaces. status: open to remote, Thiruvananthapuram, B.Tech CSE 2027.">
-
-<p>
-  <a href="https://atharvanair04.github.io"><img src="https://img.shields.io/badge/%E2%86%92_portfolio-atharvanair04.github.io-0F1115?style=flat-square&labelColor=FF8A65" alt="Portfolio"></a>
-  <a href="https://linkedin.com/in/atharva-nair-260b8b287"><img src="https://img.shields.io/badge/%E2%86%92_linkedin-atharva--nair-0F1115?style=flat-square&labelColor=81D4FA" alt="LinkedIn"></a>
+<!-- Header -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7aa2f7,100:bb9af7&height=180&section=header&text=Atharva%20Nair&fontSize=48&fontColor=ffffff&fontAlignY=35&desc=Full-stack%20dev%20%C2%B7%20ML%20for%20code%20%C2%B7%20amFOSS&descAlignY=58&descSize=18" alt="Atharva Nair" width="100%" />
 </p>
 
-I build frontends in React, TypeScript and Next.js, from the first prototype to production. I spent a year shipping UI for a cybersecurity SaaS platform, led amFOSS's web team for amMentor, and like building AI features that explain themselves.
+<p align="center">
+  <a href="https://github.com/AtharvaNair04">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1200&color=7AA2F7&center=true&vCenter=true&width=620&lines=Final-year+CS+student;Building+full-stack+apps+with+TypeScript+%26+Flutter;Open-source+contributor+%40+amFOSS" alt="Typing intro" />
+  </a>
+</p>
 
-### `~/career`
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=AtharvaNair04&label=Profile%20views&color=7aa2f7&style=flat-square" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/AtharvaNair04?label=Followers&style=flat-square&color=bb9af7" alt="Followers" />
+  <a href="https://atharvanair04.github.io"><img src="https://img.shields.io/badge/Portfolio-visit-E5481F?style=flat-square" alt="Portfolio" /></a>
+</p>
 
-<img src="assets/experience.svg" width="100%" alt="git log of my career: SafeChild research with a Springer LNCS paper; amFOSS web team lead for amMentor (Dec 2023 – Feb 2026), anchored Hacktoberfest at college and mentored inductees, co-coordinated the Hack the Future hackathon; Traboda Cyber Labs frontend developer (2024–25) who redesigned 10 core screens, wrote 10 Playwright tests, fixed 6 production bugs and built AWS API integration and image upload; B.Tech CSE at Amrita, CGPA 9.07, expected 2027.">
+---
 
-### `~/projects`
+## 👨‍💻 About me
 
-<img src="assets/projects.svg" width="100%" alt="Project tree: colaba-ai, ammentor, campus-link, safechild, securedrop, pose-estimation.">
+- 🎓 Final-year Computer Science student
+- 👁️ Revisiting **classical human pose estimation**: Flexible Mixtures-of-Parts with adaptive features and pose refinement
+- 🌱 Contributor at **amFOSS**, with 97 commits to [amMentor-Web](https://github.com/amfoss/ammentor-web)
+- 🏆 Runner-up consolation prize at the Olabs Hackathon with [COlaba](https://github.com/KKSurendran06/COlaba)
 
-<details open>
-<summary><b><code>colaba-ai/</code></b> · AI collaborative learning · <i>runner-up, OLabs Hackathon</i></summary>
+## 🛠️ Tech stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=ts,js,python,java,dart,kotlin,cpp&perline=7" alt="Languages" /><br/>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nestjs,nodejs,flutter,pytorch&perline=6" alt="Frameworks" /><br/>
+  <img src="https://skillicons.dev/icons?i=prisma,postgres,supabase,docker,git,linux&perline=6" alt="Tools" />
+</p>
+
+## 🚀 Featured projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://devfolio.co/projects/colaba-ai-5397"><img src="assets/cover-colaba.svg" width="100%" alt="COlaba AI"></a>
+<sub><b>🏆 Runner-up</b> (top 8 of 30) · OLabs Hackathon · Mar 2025</sub>
+<br><br>
+Chrome extension and web portal where students share notes, chat in real time and join video calls, with accessibility features. I integrated the Gemini API to generate summaries and quizzes for learners.
+<br><br>
+<code>Next.js</code> <code>Gemini API</code> <code>Firebase</code> <code>Tailwind CSS</code>
 <br>
-<img src="assets/project-colaba.svg" width="100%" alt="colaba-ai.tsx">
-
-A Chrome extension and web portal where students share notes, chat in real time and join video calls, with accessibility features. I integrated the Gemini API to generate summaries and quizzes.
-→ [code](https://github.com/KKSurendran06/COlaba) · [devfolio](https://devfolio.co/projects/colaba-ai-5397)
-</details>
-
-<details>
-<summary><b><code>ammentor/</code></b> · mentorship tracker · <i>web team lead @ amFOSS</i></summary>
+<a href="https://github.com/KKSurendran06/COlaba">Code</a> · <a href="https://devfolio.co/projects/colaba-ai-5397">Devfolio</a>
+</td>
+<td width="50%" valign="top">
+<a href="https://github.com/amfoss/ammentor-web"><img src="assets/cover-ammentor.svg" width="100%" alt="amMentor"></a>
+<sub><b>Web team lead</b> · amFOSS · Mar 2025 – Feb 2026</sub>
+<br><br>
+Platform for tracking inductee progress in the club. I set up the App Router architecture and a shared component library so contributors could build features consistently, and built the mentor dashboard for tasks, submissions and evaluations.
+<br><br>
+<code>Next.js</code> <code>React</code> <code>TypeScript</code>
 <br>
-<img src="assets/project-ammentor.svg" width="100%" alt="ammentor.tsx">
-
-As web lead I set up the App Router architecture and a shared component library so inductee contributors could build features consistently, and built the mentor dashboard for tasks, submissions and evaluations.
-→ [code](https://github.com/amfoss/ammentor-web) (97 commits)
-</details>
-
-<details>
-<summary><b><code>campus-link/</code></b> · campus platform · <i>Next.js + Flutter</i></summary>
+<a href="https://github.com/amfoss/ammentor-web">Code</a> <sub>(97 commits)</sub>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://github.com/AtharvaNair04/CampusLink"><img src="assets/cover-campuslink.svg" width="100%" alt="Campus Link"></a>
+<sub><b>Frontend</b> · Software Engineering course · Aug – Nov 2025</sub>
+<br><br>
+Campus management platform with a web admin portal and a mobile app. I built Next.js admin-portal modules and Flutter mobile UI flows for students and faculty, backed by Supabase.
+<br><br>
+<code>Next.js</code> <code>Flutter</code> <code>Supabase</code> <code>Express</code>
 <br>
-<img src="assets/project-campuslink.svg" width="100%" alt="campus_link.dart">
-
-Built Next.js admin-portal modules and Flutter mobile UI flows for students and faculty, backed by Supabase.
-→ [code](https://github.com/AtharvaNair04/CampusLink)
-</details>
-
-<details>
-<summary><b><code>safechild/</code></b> · explainable ML · <i>Springer LNCS co-author</i></summary>
+<a href="https://github.com/AtharvaNair04/CampusLink">Code</a>
+</td>
+<td width="50%" valign="top">
+<img src="assets/cover-safechild.svg" width="100%" alt="SafeChild">
+<sub><b>📄 Springer LNCS co-author</b> · University research team · May – Jun 2026</sub>
+<br><br>
+Multi-label classifier that flags five grooming behaviours in chat text and screenshots, with LIME word-level highlights so human reviewers can check each decision. Deployed through a Docker and Cloud Build pipeline to a Vertex AI endpoint.
+<br><br>
+<code>DistilBERT</code> <code>LIME</code> <code>Tesseract OCR</code> <code>Vertex AI</code>
 <br>
-<img src="assets/project-safechild.svg" width="100%" alt="safechild.py">
-
-A multi-label classifier that flags five grooming behaviours in chat text and screenshots, with LIME word-level highlights so human reviewers can check each decision. Deployed through Docker and Cloud Build to a Vertex AI endpoint.
-→ research project, code not public
-</details>
-
-<details>
-<summary><b><code>securedrop/</code></b> · anonymous whistleblower portal · <i>no longer maintained</i></summary>
+<sub>Research project, code not public</sub>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://github.com/AtharvaNair04/SecureDrop"><img src="assets/cover-securedrop.svg" width="100%" alt="SecureDrop"></a>
+<sub><b>Full stack</b> · 2026 · <i>no longer maintained</i></sub>
+<br><br>
+Anonymous whistleblower portal: people submit reports and files without an account, reviewers triage them behind JWT auth and role-based permissions, and every access is written to an audit log.
+<br><br>
+<code>NestJS</code> <code>Prisma</code> <code>React</code> <code>Docker</code>
 <br>
-<img src="assets/project-securedrop.svg" width="100%" alt="main.ts">
-
-People submit reports and files without an account; reviewers triage them behind JWT auth and role-based permissions, and every access is written to an audit log.
-→ [code](https://github.com/AtharvaNair04/SecureDrop)
-</details>
-
-<details>
-<summary><b><code>pose-estimation/</code></b> · classical CV, revisited · <i>MATLAB + C++</i></summary>
+<a href="https://github.com/AtharvaNair04/SecureDrop">Code</a>
+</td>
+<td width="50%" valign="top">
+<a href="https://github.com/AtharvaNair04/Computer-Vision"><img src="assets/cover-pose.svg" width="100%" alt="Pose Estimation"></a>
+<sub><b>Computer vision</b> · 2026</sub>
+<br><br>
+Extends the classical Flexible Mixtures-of-Parts pose estimator with adaptive features, preprocessing and pose refinement, then benchmarks the changes against the original baseline.
+<br><br>
+<code>MATLAB</code> <code>C++</code>
 <br>
-<img src="assets/project-pose.svg" width="100%" alt="pose_estimation.m">
+<a href="https://github.com/AtharvaNair04/Computer-Vision">Code</a>
+</td>
+</tr>
+</table>
 
-Extends the Flexible Mixtures-of-Parts pose estimator with adaptive features, preprocessing and pose refinement, then benchmarks the changes against the original baseline.
-→ [code](https://github.com/AtharvaNair04/Computer-Vision)
-</details>
+## 📊 GitHub stats
 
-### `~/skills.json`
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AtharvaNair04&theme=tokyonight" alt="Contribution graph" width="100%" />
+</p>
 
-<img src="assets/skills.svg" width="100%" alt="skills.json: frontend React, TypeScript, Next.js, Tailwind CSS; AI product Gemini API, LIME, Hugging Face, Vertex AI; quality Playwright, production debugging; backend Python, Firebase, Supabase, Docker, AWS; mobile Flutter; also Java, Google Cloud, CI/CD, Git.">
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AtharvaNair04&theme=tokyonight" alt="Stats" height="165" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AtharvaNair04&theme=tokyonight" alt="Top languages by commit" height="165" />
+</p>
 
-### `~/activity`
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=AtharvaNair04&theme=tokyonight&hide_border=true&border_radius=10" alt="Contribution streak" />
+</p>
 
-<img src="https://streak-stats.demolab.com?user=AtharvaNair04&background=0F1115&border=1E222A&stroke=1E222A&ring=FF8A65&fire=FF8A65&currStreakNum=D7DAE0&sideNums=D7DAE0&currStreakLabel=FF8A65&sideLabels=8A919E&dates=6B7280&border_radius=10" width="100%" alt="Contribution streak">
+## 🐍 Contribution snake
 
-<sub>`exit 0` · drawn by <a href="scripts/build_assets.py">scripts/build_assets.py</a></sub>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AtharvaNair04/AtharvaNair04/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AtharvaNair04/AtharvaNair04/output/github-snake.svg" />
+    <img alt="Snake eating my contribution graph" src="https://raw.githubusercontent.com/AtharvaNair04/AtharvaNair04/output/github-snake-dark.svg" />
+  </picture>
+</p>
+
+## 🤝 Connect
+
+<p align="center">
+  <a href="https://atharvanair04.github.io"><img src="https://img.shields.io/badge/Portfolio-atharvanair04.github.io-E5481F?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://linkedin.com/in/atharva-nair-260b8b287"><img src="https://img.shields.io/badge/LinkedIn-Atharva%20Nair-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:bb9af7,100:7aa2f7&height=100&section=footer" alt="" width="100%" />
+</p>
