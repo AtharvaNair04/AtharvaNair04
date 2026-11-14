@@ -12,6 +12,7 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=AtharvaNair04&label=Profile%20views&color=7aa2f7&style=flat-square" alt="Profile views" />
   <img src="https://img.shields.io/github/followers/AtharvaNair04?label=Followers&style=flat-square&color=bb9af7" alt="Followers" />
+  <a href="https://atharvanair04.github.io"><img src="https://img.shields.io/badge/Portfolio-visit-E5481F?style=flat-square" alt="Portfolio" /></a>
 </p>
 
 ---
@@ -130,7 +131,8 @@ Extends the classical Flexible Mixtures-of-Parts pose estimator with adaptive fe
 ## 🤝 Connect
 
 <p align="center">
-  <a href="https://github.com/AtharvaNair04"><img src="https://img.shields.io/badge/GitHub-AtharvaNair04-181717?style=for-the-badge&logo=github" alt="GitHub" /></a>
+  <a href="https://atharvanair04.github.io"><img src="https://img.shields.io/badge/Portfolio-atharvanair04.github.io-E5481F?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://linkedin.com/in/atharva-nair-260b8b287"><img src="https://img.shields.io/badge/LinkedIn-Atharva%20Nair-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 </p>
 
 <p align="center">
